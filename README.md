@@ -1,4 +1,4 @@
-# robocode
+## robocode
 
 Equipe: Arthur Felaço, Danilo Costa, Gustavo Pfleger, Caio Eduardo
 
